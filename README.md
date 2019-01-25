@@ -1,5 +1,7 @@
-#ARMADAS
-Industrial Data Acquisition Platform
+# ARMADAS #
+
+
+## Industrial Data Acquisition Platform ##
 
 ARMADAS consists of a set of slave devices that obtain data via 4-20ma, analog, 12-24V digital and MODBUS from industrial grade sensors.
 The collected data is sent wirelessly using 433MHz radio frequency to a Master Base Station. The Master determines the polling rata of each slave by requesting data from them.
