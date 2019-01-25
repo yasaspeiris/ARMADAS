@@ -13,7 +13,7 @@ All devices are made using the Atmega328P MCU.
 ![picpic4_nizknphcyf](https://user-images.githubusercontent.com/20635670/51755148-f1542780-20e3-11e9-9a71-a519433ae0c9.jpg)
 
 
-Instructions : https://www.hackster.io/yasaspeiris/armadas-wireless-data-acquisition-platform-3972a7
+### Instructions : https://www.hackster.io/yasaspeiris/armadas-wireless-data-acquisition-platform-3972a7 ###
 
 
-Contributors : Pasindu Liyanage
+### Contributors : Pasindu Liyanage ###
